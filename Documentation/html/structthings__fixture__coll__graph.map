@@ -1,0 +1,4 @@
+<map id="things_fixture" name="things_fixture">
+<area shape="rect" id="node1" title=" " alt="" coords="5,95,117,121"/>
+<area shape="rect" id="node2" href="$classServer.html" title="Класс в котором находятся переменные и функция для подключения сервера к клиенту" alt="" coords="29,5,93,32"/>
+</map>
